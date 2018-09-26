@@ -1,2 +1,2 @@
 # Black_Hat_Python
-hacking for programmers and pentesters
+python programming for hackers and pentesters
